@@ -27,7 +27,6 @@ def search_element(e):
 
     Element1 = document.getElementById("Element1").value
 
-    
     result = non_metals.get(Element1, ("Element not found in non-metals list", "-", "-"))
 
     document.getElementById("symbol").innerText = Element1
