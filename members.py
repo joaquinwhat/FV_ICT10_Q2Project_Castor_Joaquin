@@ -1,4 +1,3 @@
-
 from pyscript import document, display
 
 grade7 = {"Gerthy Bausa", "Jericho Magsalin"}
