@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #d5ebf3;
+    margin: 0;
+    padding: 0;
+    color: #040f24;
+}
+
+.navbar {
+    background-color: #040f24;
+    padding: 15px;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+.container {
+    max-width: 850px;
+}
+
+.main-container {
+    background-color: white;
+    padding: 25px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+h1 {
+    color: #040f24;
+    text-align: center;
+}
+
+h2, h3 {
+    color: #1b4965;
+}
+
+p {
+    color: #333333;
+}
+
+.form-control {
+    margin-bottom: 10px;
+}
+
+.btn-info {
+    background-color: #81a2ae;
+    color: white;
+    border: none;
+}
+
+.activity-card {
+    background-color: white;
+    padding: 20px;
+    border: 1px solid #81a2ae;
+    border-radius: 8px;
+    height: 100%;
+}
+
+#result {
+    margin-top: 20px;
+}
+
+.footer {
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+    color: #555555;
+}
